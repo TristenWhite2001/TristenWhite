@@ -8,3 +8,4 @@ My name is Tristen White and I am from Dubuque, Iowa. I'm currently a Junior her
 #### What I'd like to learn
 
 I've been hearing more and more about A.I development and how it's advancing pretty fast. I think if we learn about machine learning that it would be one of the more fun/interesting topics we go over in this class. I also like coding in general, so I'm hoping that this class will be enjoyable overall.:computer:
+[X]
